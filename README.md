@@ -13,7 +13,6 @@ OpenCV
 Numpy
 Beepy
 Installation
-Clone the repository: bash git clone https://github.com/HumaidIlyas/Vehicle-Proximity-Alert.git
 
 Install the required dependencies: pip install opencv-python opencv-python-headless numpy beepy
 
